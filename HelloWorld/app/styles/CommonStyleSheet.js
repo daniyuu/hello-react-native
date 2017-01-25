@@ -16,4 +16,15 @@ export const styles = StyleSheet.create({
         color: '#333333',
         marginBottom: 5,
     },
+    powderblueBlock: {
+        width: 50, height: 50, backgroundColor: 'powderblue'
+    },
+    skyblueBlock: {
+        width: 100,
+        height: 100,
+        backgroundColor: 'skyblue'
+    },
+    steelblueBlock: {
+        width: 150, height: 150, backgroundColor: 'steelblue'
+    }
 });
